@@ -1,4 +1,12 @@
 # The_Linux_server_homework
+
+
+
+YOU ALSO CAN GO TO THE "SERVER AND FIND THE FOLDER " /opt/47_78_evening_b/NIcolay.
+
+
+
+
 [ec2-user@ip-172-31-33-20 NIkolay]$ pwd
 /opt/47_48_evening_b/NIkolay
 [ec2-user@ip-172-31-33-20 NIkolay]$ ls
